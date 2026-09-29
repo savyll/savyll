@@ -8,6 +8,12 @@ I am a B.Tech student in Artificial Intelligence & Data Science at REVA Universi
 - SQL
 - C
 
+## Current Focus
+
+- AI & Data Science coursework
+- Practical software projects
+- Improving programming fundamentals
+
 ## Portfolio
 
 [View my portfolio](https://savyll.github.io/savyl-portfolio/)
