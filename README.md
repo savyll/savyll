@@ -1,8 +1,6 @@
 # Savyl Rodrigues
 
-B.Tech Artificial Intelligence & Data Science student at REVA University.
-
-Interested in Data Science and Cybersecurity.
+I am a B.Tech student in Artificial Intelligence & Data Science at REVA University, currently building my programming, data, and software skills, with interests in Data Science and Cybersecurity.
 
 ## Portfolio
 
