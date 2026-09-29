@@ -2,6 +2,12 @@
 
 I am a B.Tech student in Artificial Intelligence & Data Science at REVA University, currently building my programming, data, and software skills, with interests in Data Science and Cybersecurity.
 
+## Skills
+
+- Python
+- SQL
+- C
+
 ## Portfolio
 
 [View my portfolio](https://savyll.github.io/savyl-portfolio/)
