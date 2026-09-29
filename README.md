@@ -1,16 +1,14 @@
-## Hi there 👋
+# Savyl Rodrigues
 
-<!--
-**savyll/savyll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Artificial Intelligence & Data Science student at REVA University.
 
-Here are some ideas to get you started:
+Interested in Data Science and Cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio
+
+[View my portfolio](https://savyll.github.io/savyl-portfolio/)
+
+## Projects
+
+- [ATLAS — Network Intelligence & Diagnostics](https://github.com/savyll/atlas-network-intelligence)
+- [2D Graphics Editor in C](https://github.com/savyll/2d-graphics-editor-c)
